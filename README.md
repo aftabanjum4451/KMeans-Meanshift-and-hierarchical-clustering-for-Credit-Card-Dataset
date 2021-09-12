@@ -18,6 +18,7 @@
 - **Model Evaluation**
   - Silhouette SCore
   - Davies-Bouldin score
+- Clusters visualization
     
 ## How to Run The Code
 All the code and comments are listed in above jupyter notbooks for your understanding.
