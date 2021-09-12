@@ -4,7 +4,7 @@ Unsupervised learning is the focus of this personal project, which is separated 
 ## Project Highlight
 - Load the data  
 - **Exploratory data analysis (EDA)**
-  - Data distribution
+  - Data distribution (BOX plot, scatter plot, pair plot)
   - Features correlation
   - Outlier Detection
   - Removed the Outlier using IQR, Z-score
@@ -19,7 +19,7 @@ Unsupervised learning is the focus of this personal project, which is separated 
 - **Model Evaluation**
   - Silhouette SCore
   - Davies-Bouldin score
-- Clusters visualization
+- Clusters Analysis and visualization
     
 ## How to Run The Code
 All the code and comments are listed in above jupyter notbooks for your understanding.
