@@ -10,7 +10,7 @@ Unsupervised learning is the focus of this personal project, which is separated 
   - Removed the Outlier using IQR, Z-score
   - KNN imputer (Handle missing values)
 - Data Normalization
-- Dimensionality reduction: pca
+- Dimensionality reduction: PCA
 - Elbow Method 
 - **Models**
   - KMeans
